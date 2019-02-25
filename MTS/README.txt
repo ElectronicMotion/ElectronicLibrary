@@ -19,6 +19,8 @@ Planned Features:
         - Session mode
         - Users
         - Delete Comments
+	- Add Timestamp to Comments and Tickets, not only date
+	  Timestamp will be shown only in comments or in Detail
 
 Known Issues:
 	- Display breaks with too long description.
