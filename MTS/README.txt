@@ -20,4 +20,8 @@ Planned Features:
         - Users
         - Delete Comments
 
+Known Issues:
+	- Display breaks with too long description.
+
 Updated: 25.02.2019
+
