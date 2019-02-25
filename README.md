@@ -8,7 +8,8 @@ Currently there is:
 
 MTS:
 Micro Ticket System
-This is a small terminal application that serves as a personal Ticket system. More info at /mts/README.txt
+This is a small terminal application that serves as a personal Ticket system. 
+More info at /MTS/README.txt
 
 
 
