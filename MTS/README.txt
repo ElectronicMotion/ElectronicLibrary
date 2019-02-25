@@ -22,6 +22,8 @@ Planned Features:
 
 Known Issues:
 	- Display breaks with too long description.
+	- If more than the expected 2 Arguments on comment are used, it will
+	  create a blank entry in the database.
 
 Updated: 25.02.2019
 
