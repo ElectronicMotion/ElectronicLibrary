@@ -21,6 +21,8 @@ Planned Features:
         - Delete Comments
 	- Add Timestamp to Comments and Tickets, not only date
 	  Timestamp will be shown only in comments or in Detail
+	- Path to Database should be changable
+	- User and Path - config will need a config file
 
 Known Issues:
 	- Display breaks with too long description.
