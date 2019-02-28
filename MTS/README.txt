@@ -27,6 +27,7 @@ Planned Features:
 		- Hold
 		- Assigned
 	- Visuals Rework
+	- Namechange
 
 Known Issues:
 	- Display breaks with too long description.
