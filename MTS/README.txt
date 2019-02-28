@@ -23,6 +23,10 @@ Planned Features:
 	  Timestamp will be shown only in comments or in Detail
 	- Path to Database should be changable
 	- User and Path - config will need a config file
+	- New Statuses for Tickets:
+		- Hold
+		- Assigned
+	- Visuals Rework
 
 Known Issues:
 	- Display breaks with too long description.
