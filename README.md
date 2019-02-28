@@ -6,9 +6,7 @@ This is a collection of tools and software written by me, and most likely only u
 If you just stubled accross here, feel free to check this stuff out.
 Currently there is:
 
-MTS:
-Micro Ticket System
-This is a small terminal application that serves as a personal Ticket system. More info at /mts/README.txt
+MTS: Micro Ticket System is a small terminal application that serves as a personal Ticket system. More info at /MTS/README.txt
 
 
 
