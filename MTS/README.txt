@@ -26,6 +26,7 @@ Planned Features:
 	- New Statuses for Tickets:
 		- Hold
 		- Assigned
+		- Blocked
 	- Visuals Rework
 	- Namechange
 
