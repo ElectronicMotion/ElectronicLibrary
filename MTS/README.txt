@@ -32,6 +32,7 @@ Planned Features:
 	- New Ticket Types:
 		- Normal Ticket
 		- Note
+	- Projects to sort Tickets
 
 Known Issues:
 	- Display breaks with too long description.
