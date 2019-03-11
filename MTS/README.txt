@@ -29,6 +29,9 @@ Planned Features:
 		- Blocked
 	- Visuals Rework
 	- Namechange
+	- New Ticket Types:
+		- Normal Ticket
+		- Note
 
 Known Issues:
 	- Display breaks with too long description.
